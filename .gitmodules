@@ -182,3 +182,6 @@
 [submodule "bundle/file-line"]
 	path = bundle/file-line
 	url = https://github.com/bogado/file-line.git
+[submodule "bundle/vim-vimperator"]
+	path = bundle/vim-vimperator
+	url = https://github.com/superbrothers/vim-vimperator.git
