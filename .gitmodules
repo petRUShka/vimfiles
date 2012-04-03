@@ -179,3 +179,6 @@
 [submodule "bundle/vim-indexed-search"]
 	path = bundle/vim-indexed-search
 	url = git://github.com/henrik/vim-indexed-search.git
+[submodule "bundle/file-line"]
+	path = bundle/file-line
+	url = https://github.com/bogado/file-line.git
