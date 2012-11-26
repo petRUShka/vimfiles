@@ -154,6 +154,9 @@
 [submodule "bundle/vim-capybara"]
 	path = bundle/vim-capybara
 	url = git://github.com/asux/vim-capybara.git
+[submodule "bundle/opencl"]
+	path = bundle/opencl
+	url = git://github.com/petRUShka/vim-opencl.git
 [submodule "bundle/vim-autoclose"]
 	path = bundle/vim-autoclose
 	url = git://github.com/Townk/vim-autoclose.git
@@ -205,3 +208,6 @@
 [submodule "bundle/vim-ruby-run"]
 	path = bundle/vim-ruby-run
 	url = https://github.com/stjernstrom/vim-ruby-run
+[submodule "bundle/vim-opencl"]
+	path = bundle/vim-opencl
+	url = git://github.com/petRUShka/vim-opencl.git
