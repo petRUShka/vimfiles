@@ -208,6 +208,3 @@
 [submodule "bundle/vim-ruby-run"]
 	path = bundle/vim-ruby-run
 	url = https://github.com/stjernstrom/vim-ruby-run
-[submodule "bundle/vim-opencl"]
-	path = bundle/vim-opencl
-	url = git://github.com/petRUShka/vim-opencl.git
