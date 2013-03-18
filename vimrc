@@ -444,3 +444,9 @@ inoremap <Esc>D <left>
 if has("balloon_eval")
   set noballooneval
 endif
+
+function! TurnipStepMaker()
+  %s/^\s\+[а-яА-Я]* \(.*\)$/  step "\1" do\r  end/g
+endfunction
+
+command TurnipStepMaker call TurnipStepMaker()
