@@ -6,7 +6,7 @@ let g:CSApprox_verbose_level = 0
 filetype on
 filetype off
 
-set runtimepath+=~/.vim/bundle/vundle
+set runtimepath+=~/.vim/bundle/Vundle.vim
 call vundle#rc()
 source ~/.vim/vundles.vim
 
