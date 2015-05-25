@@ -17,3 +17,4 @@ tags
 tmp/
 log/
 bundle/**
+spell/*.add
