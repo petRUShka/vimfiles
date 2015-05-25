@@ -2,10 +2,8 @@ Bundle 'Lokaltog/vim-easymotion'
 Bundle 'Shadowfiend/liftweb-vim'
 Bundle 'Townk/vim-autoclose'
 Bundle 'akhil/scala-vim-bundle'
-Bundle 'akitaonrails/snipmate.vim'
 Bundle 'altercation/vim-colors-solarized'
 Bundle 'astashov/vim-ruby-debugger'
-Bundle 'asux/snipmate-snippets'
 Bundle 'asux/vim-capybara'
 Bundle 'slim-template/vim-slim'
 Bundle 'bogado/file-line'
@@ -62,3 +60,7 @@ Bundle 'tpope/vim-vividchalk'
 Bundle 'vim-ruby/vim-ruby'
 Bundle 'vim-scripts/ZoomWin'
 Bundle 'vim-scripts/grep.vim'
+Bundle "MarcWeber/vim-addon-mw-utils"
+Bundle "tomtom/tlib_vim"
+Bundle "garbas/vim-snipmate"
+Bundle "honza/vim-snippets"
