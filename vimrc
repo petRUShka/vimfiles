@@ -6,9 +6,7 @@ let g:CSApprox_verbose_level = 0
 filetype on
 filetype off
 
-set runtimepath+=~/.vim/bundle/Vundle.vim
-call vundle#rc()
-source ~/.vim/vundles.vim
+source ~/.vim/plugins.vim
 
 "Use Vim settings, rather then Vi settings (much better!).
 "This must be first, because it changes other options as a side effect.

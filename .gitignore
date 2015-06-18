@@ -16,5 +16,5 @@ tags
 *.[t]bz2
 tmp/
 log/
-bundle/**
 spell/*.add
+plugged/**
