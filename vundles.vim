@@ -60,7 +60,5 @@ Bundle 'tpope/vim-vividchalk'
 Bundle 'vim-ruby/vim-ruby'
 Bundle 'vim-scripts/ZoomWin'
 Bundle 'vim-scripts/grep.vim'
-Bundle "MarcWeber/vim-addon-mw-utils"
-Bundle "tomtom/tlib_vim"
-Bundle "garbas/vim-snipmate"
+Plugin 'SirVer/ultisnips'
 Bundle "honza/vim-snippets"
