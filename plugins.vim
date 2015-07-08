@@ -73,4 +73,5 @@ Plug 'vim-scripts/ZoomWin'
 Plug 'vim-scripts/grep.vim'
 Plug 'SirVer/ultisnips' | Plug 'honza/vim-snippets'
 Plug 'Valloric/YouCompleteMe', { 'do': function('BuildYCM') }
+Plug 'thomd/vim-jasmine'
 call plug#end()
