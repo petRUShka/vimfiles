@@ -11,8 +11,8 @@ endfunction
 call plug#begin()
 Plug 'Lokaltog/vim-easymotion'
 Plug 'Shadowfiend/liftweb-vim'
-Plug 'Townk/vim-autoclose'
 Plug 'akhil/scala-vim-bundle'
+Plug 'Raimondi/delimitMate'
 Plug 'altercation/vim-colors-solarized'
 Plug 'astashov/vim-ruby-debugger'
 Plug 'asux/vim-capybara'
