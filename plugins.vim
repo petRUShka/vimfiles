@@ -46,6 +46,7 @@ Plug 'othree/html5.vim'
 Plug 'petRUShka/vim-gap'
 Plug 'petRUShka/vim-opencl'
 Plug 'petRUShka/vim-sage'
+Plug 'petRUShka/vim-magma'
 Plug 'scrooloose/nerdcommenter'
 Plug 'scrooloose/nerdtree', { 'on':  'NERDTreeToggle' }
 Plug 'scrooloose/syntastic'
