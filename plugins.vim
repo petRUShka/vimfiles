@@ -74,4 +74,7 @@ Plug 'vim-scripts/grep.vim'
 Plug 'SirVer/ultisnips' | Plug 'honza/vim-snippets'
 Plug 'Valloric/YouCompleteMe', { 'do': function('BuildYCM') }
 Plug 'thomd/vim-jasmine'
+Plug 'xolox/vim-misc' | Plug 'xolox/vim-easytags'
+Plug 'rking/ag.vim'
+Plug 'jlanzarotta/bufexplorer'
 call plug#end()
