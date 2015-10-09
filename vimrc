@@ -423,3 +423,18 @@ command TurnipStepMaker call TurnipStepMaker()
 set tags=./tags;
 let g:easytags_dynamic_files = 1
 let g:easytags_async = 1
+
+" Ruby Matchit
+source $VIMRUNTIME/macros/matchit.vim
+"augroup matchit
+"  au!
+"  au FileType ruby let b:match_words = '\<\(module\|class\|def\|begin\|do\|if\|unless\|case\)\>:\<\(elsif\|when\|rescue\)\>:\<\(else\|ensure\)\>:\<end\>'
+"augroup END
+
+" Vim can detect and load the Rails environment for files within a rails
+"   project. The feature is disabled by default
+let g:rubycomplete_rails = 1
+" Vim can parse a Gemfile, in case gems are being implicitly required.
+let g:rubycomplete_load_gemfile = 1
+" To use Bundler.require instead of parsing the Gemfile
+" let g:rubycomplete_use_bundler = 1

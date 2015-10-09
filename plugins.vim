@@ -77,4 +77,8 @@ Plug 'thomd/vim-jasmine'
 Plug 'xolox/vim-misc' | Plug 'xolox/vim-easytags'
 Plug 'rking/ag.vim'
 Plug 'jlanzarotta/bufexplorer'
+Plug 'floobits/floobits-neovim'
+Plug 'keith/rspec.vim'
+Plug 'danchoi/ri.vim'
+Plug 'chase/vim-ansible-yaml'
 call plug#end()
