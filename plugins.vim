@@ -81,4 +81,5 @@ Plug 'floobits/floobits-neovim'
 Plug 'keith/rspec.vim'
 Plug 'danchoi/ri.vim'
 Plug 'chase/vim-ansible-yaml'
+Plug 'Glench/Vim-Jinja2-Syntax'
 call plug#end()
